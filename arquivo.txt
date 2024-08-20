@@ -2,3 +2,4 @@ primeira linha do projeto no repositorio local. (escrito pelo usuario adriana)
 segunda linha do projeto apos criacao do repositorio remoto
 tentando de novo pq nao foi
 tentando novamente
+enviando dados do repositorio remoto salvo no desktop
